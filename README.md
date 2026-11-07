@@ -6,11 +6,11 @@
 
 ### 排查 Niagara 性能｜TA 实践手记 05
 
-适合在排查粒子覆盖、透明阶段或 GPU 耗时的同学。先读两个尺寸条件下的三个采样窗口，再比较透明阶段与整帧 GPU 的读数。
+适合在排查粒子覆盖、透明阶段或 GPU 耗时的同学。先读两个尺寸条件下各三个采样窗口，再比较透明阶段与整帧 GPU 的读数。
 
 自查：保持 88 个粒子和相同材质，只改尺寸时，哪些读数变化？这些读数能支持什么结论？
 
-[打开在线读数练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/#reading-exercise) · [下载离线伴读与原始数据](https://github.com/QIQIdeqi/ta05-niagara-gpu-timing-companion/releases/latest)
+[阅读 TA05 完整教程](https://zhuanlan.zhihu.com/p/2097710842536113511) · [打开在线图表与练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/) · [记录读数与反馈](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/#feedback-notes) · [下载离线伴读与原始数据](https://github.com/QIQIdeqi/ta05-niagara-gpu-timing-companion/releases/latest)
 
 ### 做 UE 编辑器批量工具｜UE 工具蓝图实战 02
 
