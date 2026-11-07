@@ -28,7 +28,7 @@
 
 </details>
 
-[下载 UE02 浏览器练习 ZIP](https://github.com/QIQIdeqi/QIQIdeqi/blob/main/downloads/UE02-rename-preview-browser-v1.0.0.zip)。在文件页选择下载，解压后打开 `index.html` 即可操作。这是中文教学模拟，实际工程步骤见下方教程。
+[在线打开 UE02 浏览器练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ue02-rename-preview.html) · [下载 UE02 浏览器练习 ZIP](https://github.com/QIQIdeqi/QIQIdeqi/blob/main/downloads/UE02-rename-preview-browser-v1.0.0.zip)。在文件页选择下载，解压后打开 `index.html` 即可操作。这是中文教学模拟，实际工程步骤见下方教程。
 
 [阅读 UE02 完整教程](https://zhuanlan.zhihu.com/p/2095285265053004093) · [只读预览练习与反馈](https://zhuanlan.zhihu.com/p/2095979973278437632)
 
@@ -53,7 +53,7 @@ Choose a route based on the problem you are working on:
 | Task | Start here | Try this |
 | --- | --- | --- |
 | Diagnose Niagara GPU cost | [TA05 illustrated guide and reading exercise](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/measurement-notes.html) (English) | Hold particle count and material fixed. Compare translucent-pass and whole-frame GPU timings after changing sprite size. Which measurement supports your conclusion? |
-| Build a safe batch-rename tool | [UE02 offline browser exercise](downloads/UE02-rename-preview-browser-en-v1.0.0.zip) (English, unzip and open index.html) | Generate a preview, then change the rule. Can the old preview still be executed? Repeat with an occupied target name. |
+| Build a safe batch-rename tool | [UE02 online exercise](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ue02-rename-preview-en.html) · [UE02 offline browser exercise](downloads/UE02-rename-preview-browser-en-v1.0.0.zip) (English, unzip and open index.html) | Generate a preview, then change the rule. Can the old preview still be executed? Repeat with an occupied target name. |
 | Hand off a cutscene review | [R001 / R002 handoff exercise](过场交接练习.md#english--cutscene-review-handoff) (English) | Given a review note, record the Sequence, reference version, owner and next action. Decide whether it is ready for review or needs clarification. |
 
 English navigation was prepared with AI-assisted translation and checked against the original Chinese routes.
