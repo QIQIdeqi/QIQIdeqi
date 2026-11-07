@@ -10,7 +10,7 @@
 
 自查：保持 88 个粒子和相同材质，只改尺寸时，哪些读数变化？这些读数能支持什么结论？
 
-[打开在线读数练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/#reading-exercise) · [下载离线伴读与原始数据](https://github.com/QIQIdeqi/ta05-niagara-gpu-timing-companion/releases/tag/v1.0.4)
+[打开在线读数练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/#reading-exercise) · [下载离线伴读与原始数据](https://github.com/QIQIdeqi/ta05-niagara-gpu-timing-companion/releases/latest)
 
 ### 做 UE 编辑器批量工具｜UE 工具蓝图实战 02
 
