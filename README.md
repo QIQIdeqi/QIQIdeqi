@@ -38,7 +38,7 @@
 
 自查：任选一条审核意见，能否同时写出对应 Sequence、材料版本、处理人和下一步？
 
-[用 R001 和 R002 做一次接收方交接练习](过场交接练习.md)。先写记录，再展开参考答案。
+[在线填写 R001 和 R002](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-exercise.html) · [中英文题面](过场交接练习.md)。先写记录，再展开参考答案。
 
 [阅读过场制作实践 01](https://zhuanlan.zhihu.com/p/2094879283684578260) · [阅读 02：审核意见与交接](https://zhuanlan.zhihu.com/p/2096324332645507394)
 
