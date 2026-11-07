@@ -44,4 +44,14 @@
 
 ---
 
-**English** · The [TA05 illustrated guide](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/measurement-notes.html) walks through a measured Unreal Engine Niagara timing comparison. It includes the capture conditions, raw data and a reading exercise.
+## English · Unreal Engine technical art practice
+
+Choose a route based on the problem you are working on:
+
+| Task | Start here | Try this |
+| --- | --- | --- |
+| Diagnose Niagara GPU cost | [TA05 illustrated guide and reading exercise](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/measurement-notes.html) (English) | Hold particle count and material fixed. Compare translucent-pass and whole-frame GPU timings after changing sprite size. Which measurement supports your conclusion? |
+| Build a safe batch-rename tool | [UE02 Editor Utility Widget tutorial](https://zhuanlan.zhihu.com/p/2095285265053004093) (Chinese) | Generate a preview, then change the rule. Can the old preview still be executed? Repeat with an occupied target name. |
+| Hand off a cutscene review | [R001 / R002 handoff exercise](过场交接练习.md) (Chinese) | Given a review note, record the Sequence, reference version, owner and next action. Decide whether it is ready for review or needs clarification. |
+
+English navigation was prepared with AI-assisted translation and checked against the original Chinese routes.
