@@ -12,6 +12,8 @@
 
 [阅读 TA05 完整教程](https://zhuanlan.zhihu.com/p/2097710842536113511) · [打开在线图表与练习](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/) · [记录读数与反馈](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/#feedback-notes) · [下载离线伴读与原始数据](https://github.com/QIQIdeqi/ta05-niagara-gpu-timing-companion/releases/latest)
 
+如果遇到的是 MRQ 从镜头中段出片时粒子首帧不同，可以继续看 TA15。[免费搭建手册](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-mrq-setup.html)给出复测步骤，[逐帧自查题](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-cache-cut-exercise.html#check)可直接比较第 56、57 帧与同帧参照的差异。
+
 ### 做 UE 编辑器批量工具｜UE 工具蓝图实战 02
 
 适合已经会用基础蓝图，正在做批量重命名或资产编辑工具的同学。先走一遍预览、重名检查和执行前复检。
