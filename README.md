@@ -28,6 +28,8 @@
 
 </details>
 
+[下载 UE02 浏览器练习 ZIP](https://github.com/QIQIdeqi/QIQIdeqi/blob/main/downloads/UE02-rename-preview-browser-v1.0.0.zip)。在文件页选择下载，解压后打开 `index.html` 即可操作。这是中文教学模拟，实际工程步骤见下方教程。
+
 [阅读 UE02 完整教程](https://zhuanlan.zhihu.com/p/2095285265053004093) · [只读预览练习与反馈](https://zhuanlan.zhihu.com/p/2095979973278437632)
 
 ### 梳理过场审核与交接｜过场制作实践 01
