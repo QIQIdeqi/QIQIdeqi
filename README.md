@@ -40,7 +40,7 @@
 
 自查：任选一条审核意见，能否同时写出对应 Sequence、材料版本、处理人和下一步？
 
-[在线填写 R001 和 R002](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-exercise.html) · [中英文题面](过场交接练习.md)。先写记录，再展开参考答案。
+[在线填写 R001 和 R002](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-exercise.html) · [下载无答案题面](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-questions-zh-en.txt)。把题面交给接收方独立填写，再回到在线页核对。
 
 [阅读过场制作实践 01](https://zhuanlan.zhihu.com/p/2094879283684578260) · [阅读 02：审核意见与交接](https://zhuanlan.zhihu.com/p/2096324332645507394)
 
@@ -56,7 +56,7 @@ Choose a route based on the problem you are working on:
 | --- | --- | --- |
 | Diagnose Niagara GPU cost | [TA05 illustrated guide and reading exercise](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/measurement-notes.html) (English) | Hold particle count and material fixed. Compare translucent-pass and whole-frame GPU timings after changing sprite size. Which measurement supports your conclusion? |
 | Build a safe batch-rename tool | [UE02 online exercise](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ue02-rename-preview-en.html) · [UE02 offline browser exercise](downloads/UE02-rename-preview-browser-en-v1.0.0.zip) (English, unzip and open index.html) | Generate a preview, then change the rule. Can the old preview still be executed? Repeat with an occupied target name. |
-| Hand off a cutscene review | [R001 / R002 online worksheet](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-exercise-en.html) · [Exercise text](过场交接练习.md#english--cutscene-review-handoff) | Given a review note, record the Sequence, reference version, owner and next action. Decide whether it is ready for review or needs clarification. |
+| Hand off a cutscene review | [R001 / R002 online worksheet](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-exercise-en.html) · [Answer-free sheet to share](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/cutscene-handoff-questions-zh-en.txt) | Given a review note, record the Sequence, reference version, owner and next action. Decide whether it is ready for review or needs clarification. |
 
 For a first-frame mismatch in Movie Render Queue (MRQ), see **TA15 · MRQ warm-up and Sim Cache**. Open the [English frame comparison](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-cache-cut-exercise-en.html#check). Choose output frames 56 and 57, then switch between Display Cache Only and Sim Without Cache. Which mode has fewer differing foreground pixels at each frame? Use the [English setup guide](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-mrq-setup-en.html) to repeat the comparison on your own shot. For the state at the cache boundary, see the [frame 56 temporal sample breakdown](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-frame56-samples/en.html) and compare callback states with the final image. [Download and reproduce the CSV summary offline](https://qiqideqi.github.io/ta05-niagara-gpu-timing-companion/ta15-mrq-setup-en.html#offline-csv-check).
 
